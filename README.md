@@ -4,7 +4,7 @@ Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 8 → Viernes
 
 ### Visualización de datos
 
-Tercera clase de la tercera iteración.
+En [la clase recién pasada](https://github.com/profesorfaco/dgp502_7/)… Tercera clase de la tercera iteración.
 
 - - - - 
 
