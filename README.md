@@ -1,4 +1,4 @@
-Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 8 → Viernes ?? de ??????
+Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 8 → Viernes 20 de julio
 
 # Seminario Gráfica Computacional I (v.2018)
 
