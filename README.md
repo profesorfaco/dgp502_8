@@ -30,8 +30,9 @@ B.6. Tercera visualización: Utiliza p5.js, funciona con datos obtenidos de un C
 
 (A diferencia de la evaluación anterior, acá no son relevantes las explicaciones, esto les da espacio a presentar visualizaciones más experimentales). 
 
-**La nota máxima (7,0) se obtiene con 10 puntos. La recepción de trabajos a evaluar termina a las 18.30 hrs. de hoy, viernes ?? de ??????, 2018. Si su trabajo no es enviado en ese plazo, recibe nota mínima (1,0)**
+**La nota máxima (7,0) se obtiene con 10 puntos. La recepción de trabajos a evaluar termina a las 18.30 hrs. de hoy, viernes 20 de julio, 2018. Si su trabajo no es enviado en ese plazo, recibe nota mínima (1,0)**
 
+Por movilizaciones, pasamos de **viernes 11 de mayo** a **viernes 20 de julio**.
 
 - - - - 
 
