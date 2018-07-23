@@ -36,48 +36,48 @@ Por movilizaciones, pasamos de **viernes 11 de mayo** a **viernes 20 de julio**.
 
 ### Evaluaciones
 
-| NOMBRE | URL | NOTA |
-|:----|:----|:----:|
-|	Aedo Barrera, Camila Belén	|	https://camilaaedo.github.io/vuelta_a_clases_wi/	|	5.0	|
-|	Araya Jofré, Paulina Rayen	|	https://linearaya.github.io/EvaluacionDiagnostico/	|	5.6	|
-|	Asenjo Arellano, Laura Ivette	|	https://lauraasenjo.github.io/vuelta_a_clases/	|	5.9	|
-|	Barra Durán, Tiare Katherine	|	https://tiarekth.github.io/vuelta_a_clases-20-julio/	|	5.8	|
-|	Barrera Vera, Simón Ignacio	|		|	1.0	|
-|	Berríos Cáceres, Bárbara Paz	|	https://elfantevolante.github.io/20_de_julio/	|	5.9	|
-|	Cardoza Astorga, Valentina Daniela	|	https://valentitina.github.io/vuelta_a_clases/	|	4.9	|
-|	Cea Villanueva, Constanza	|	https://connycea22.github.io/EvaluacionDiagnostica/	|	5.6	|
-|	Cerda Julio, Francisco Hernan	|	https://zikofco.github.io/20_de_julio-/	|	5.4	|
-|	Cisternas de Vivanco, Alhelí	|	https://alhelicdev.github.io/20-JULIO/	|	5.1	|
-|	Cousins Contreras, Constanza Valeria	|	https://conicousins.github.io/Clase_7_vuelta/	|	4.8	|
-|	Delaigue Carrasco, Dominique Camila	|	https://domidelaigue.github.io/vuelta_a_clases/	|	5.6	|
-|	Ebensperger Carrasco, Bernardita	|	https://pituebensperger.github.io/vuelta_a_clases/	|	3.0	|
-|	Encina Rubio, Colomba Ignacia	|	https://psycotastic.github.io/julio_20/	|	5.8	|
-|	Espinoza Pérez, Elizabeth Natalia	|	https://elyespinoza.github.io/vuelta-a-clases/	|	4.9	|
-|	Fuentes Jorquera, Ignacio Felipe	|	https://ignachu.github.io/Vuelta_a_clases/	|	5.5	|
-|	Godoy Salgado, Alexander Erick	|	https://fawlessvictory.github.io/Clase_20_07/	|	5.5	|
-|	Gutierrez Magna, Ruth Maria	|	https://rutikina.github.io/Clase2007/	|	5.8	|
-|	Heredia Heredia, Marco Antonio	|		|	1.0	|
-|	Ibáñez Cristi, Camila Javiera	|	https://camilaibanez.github.io/vuelta_a_clases_20_julio/	|	5.4	|
-|	Jara Cuevas, Camila Ivonne	|	https://camilajara95.github.io/vuelta_a_clases/	|	5.1	|
-|	Jarpa Videla, Marisol Andrea	|	https://maripon.github.io/20072018/	|	5.9	|
-|	Leal Carmona, Bárbara Michelle	|		|	1.0	|
-|	Loyola Valencia, Matías René	|	https://matloy.github.io/vuelta_a_clases_20-07/	|	5.3	|
-|	Mella Aravena, Diego Eduardo	|	https://odrusba6392.github.io/vuelta_a_clases/	|	4.8	|
-|	Mella González, Monserrat Belén	|	https://monserrat0mella.github.io/clase_20_07/	|	5.0	|
-|	Miranda Schleyer, Trinidad	|	https://trinimiranda.github.io/vuelta_a_clases/	|	5.6	|
-|	Montenegro Castro, Valeria Carolina	|		|	1.0	|
-|	Pizarro Gutierrez, Grecia Alejandra	|	https://greciapizarro2018.github.io/vuelta_a-_clases/	|	5.3	|
-|	Ponce Caro, Mariela Yessenia	|	https://mponcec.github.io/Clase_20_07/	|	5.3	|
-|	Pons Emelianov, Pedro Taras	|	https://hereticalmenace.github.io/Diagnostico_20-07-2018/	|	5.9	|
-|	Riquelme Martinez, Jairo Andres	|		|	1.0	|
-|	Rivas Gutierrez, Fernanda Ignacia	|		|	1.0	|
-|	Salazar Dassori, Sara Myriam	|	https://sarasalazarde2018.github.io/vuelta_a_clases/	|	5.8	|
-|	Sayado Cifuentes, Samantha Michelle	|		|	1.0	|
-|	Toloza Espinoza, Catalina Giselle	|	https://catalina0toloza.github.io/Clase-20-07/	|	5.6	|
-|	Vera Hablares, Brian Antonio	|	https://bverahablares.github.io/vuelta_a_clases/	|	4.7	|
-|	Verdugo Barrios, Xavier Darío	|	https://disenoissucces.github.io/Clase20Julio/	|	5.6	|
-|	Vicuña Riquelme, Brian Alejandro	|	https://brianvic96.github.io/20-julio/	|	5.9	|
-|	Viera Viera, Catalina Alexandra	|		|	1.0	|
+| NOMBRE | URL | NOTA | APRUEBA/REPRUEBA |
+|:----|:----|:----:|:-----:|
+|	Aedo Barrera, Camila Belén	|	https://camilaaedo.github.io/vuelta_a_clases_wi/	|	5.0	| A |
+|	Araya Jofré, Paulina Rayen	|	https://linearaya.github.io/EvaluacionDiagnostico/	|	5.6	| A |
+|	Asenjo Arellano, Laura Ivette	|	https://lauraasenjo.github.io/vuelta_a_clases/	|	5.9	| A |
+|	Barra Durán, Tiare Katherine	|	https://tiarekth.github.io/vuelta_a_clases-20-julio/	|	5.8	| A |
+|	Barrera Vera, Simón Ignacio	|		|	1.0	| R |
+|	Berríos Cáceres, Bárbara Paz	|	https://elfantevolante.github.io/20_de_julio/	|	5.9	| A |
+|	Cardoza Astorga, Valentina Daniela	|	https://valentitina.github.io/vuelta_a_clases/	|	4.9	| A |
+|	Cea Villanueva, Constanza	|	https://connycea22.github.io/EvaluacionDiagnostica/	|	5.6	| A |
+|	Cerda Julio, Francisco Hernan	|	https://zikofco.github.io/20_de_julio-/	|	5.4	| A |
+|	Cisternas de Vivanco, Alhelí	|	https://alhelicdev.github.io/20-JULIO/	|	5.1	| A |
+|	Cousins Contreras, Constanza Valeria	|	https://conicousins.github.io/Clase_7_vuelta/	|	4.8	| A |
+|	Delaigue Carrasco, Dominique Camila	|	https://domidelaigue.github.io/vuelta_a_clases/	|	5.6	| A |
+|	Ebensperger Carrasco, Bernardita	|	https://pituebensperger.github.io/vuelta_a_clases/	|	3.0	| R |
+|	Encina Rubio, Colomba Ignacia	|	https://psycotastic.github.io/julio_20/	|	5.8	| A |
+|	Espinoza Pérez, Elizabeth Natalia	|	https://elyespinoza.github.io/vuelta-a-clases/	|	4.9	| A |
+|	Fuentes Jorquera, Ignacio Felipe	|	https://ignachu.github.io/Vuelta_a_clases/	|	5.5	| A |
+|	Godoy Salgado, Alexander Erick	|	https://fawlessvictory.github.io/Clase_20_07/	|	5.5	| A |
+|	Gutierrez Magna, Ruth Maria	|	https://rutikina.github.io/Clase2007/	|	5.8	| A |
+|	Heredia Heredia, Marco Antonio	|		|	1.0	| R |
+|	Ibáñez Cristi, Camila Javiera	|	https://camilaibanez.github.io/vuelta_a_clases_20_julio/	|	5.4	| A |
+|	Jara Cuevas, Camila Ivonne	|	https://camilajara95.github.io/vuelta_a_clases/	|	5.1	| A |
+|	Jarpa Videla, Marisol Andrea	|	https://maripon.github.io/20072018/	|	5.9	| A |
+|	Leal Carmona, Bárbara Michelle	|		|	1.0	| R |
+|	Loyola Valencia, Matías René	|	https://matloy.github.io/vuelta_a_clases_20-07/	|	5.3	| A |
+|	Mella Aravena, Diego Eduardo	|	https://odrusba6392.github.io/vuelta_a_clases/	|	4.8	| A |
+|	Mella González, Monserrat Belén	|	https://monserrat0mella.github.io/clase_20_07/	|	5.0	| A |
+|	Miranda Schleyer, Trinidad	|	https://trinimiranda.github.io/vuelta_a_clases/	|	5.6	| A |
+|	Montenegro Castro, Valeria Carolina	|		|	1.0	| R |
+|	Pizarro Gutierrez, Grecia Alejandra	|	https://greciapizarro2018.github.io/vuelta_a-_clases/	|	5.3	| A |
+|	Ponce Caro, Mariela Yessenia	|	https://mponcec.github.io/Clase_20_07/	|	5.3	| A |
+|	Pons Emelianov, Pedro Taras	|	https://hereticalmenace.github.io/Diagnostico_20-07-2018/	|	5.9	| A |
+|	Riquelme Martinez, Jairo Andres	|		|	1.0	| R |
+|	Rivas Gutierrez, Fernanda Ignacia	|		|	1.0	| R |
+|	Salazar Dassori, Sara Myriam	|	https://sarasalazarde2018.github.io/vuelta_a_clases/	|	5.8	| A |
+|	Sayado Cifuentes, Samantha Michelle	|		|	1.0	| R |
+|	Toloza Espinoza, Catalina Giselle	|	https://catalina0toloza.github.io/Clase-20-07/	|	5.6	| A |
+|	Vera Hablares, Brian Antonio	|	https://bverahablares.github.io/vuelta_a_clases/	|	4.7	| A |
+|	Verdugo Barrios, Xavier Darío	|	https://disenoissucces.github.io/Clase20Julio/	|	5.6	| A |
+|	Vicuña Riquelme, Brian Alejandro	|	https://brianvic96.github.io/20-julio/	|	5.9	| A |
+|	Viera Viera, Catalina Alexandra	|		|	1.0	| R |
 
 - - - - 
 
